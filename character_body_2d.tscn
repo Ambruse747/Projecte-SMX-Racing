@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://uyxmlbaoxowx"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1071873822]
+position = Vector2(-3, 1)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=4184212]
+
+[node name="Sprite2D" type="Sprite2D" parent="CollisionShape2D" unique_id=1034047382]
